@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladimir Ivanov</h1>
 <h3 align="center">I'm a DevOps engineer</h3>
 
-- 📈 I have AWS and Databricks certificates **Advanced Testing Practises Using AWS DevOps Tools, AWS Certified DevOps Engineer - Professional, Data Analysis, Platform Administration, Data Engineering, Data Engineer Associate, Assoсiate Developer for Apache Spark**
+- 📈 I have AWS and Databricks certificates **Advanced Testing Practises Using AWS DevOps Tools, AWS Certified DevOps Engineer - Professional, Data Analysis, Platform Administration, Data Engineering, Data Engineer Associate**
 
 - 💬 Ask me about **Git, GitLab, CI/CD, Docker, Terraform, Ansible, Grafana, Prometheus**
 
